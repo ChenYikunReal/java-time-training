@@ -1,5 +1,9 @@
 .idea
+
 target
+out
+bin
+
 *.iml
 
 
